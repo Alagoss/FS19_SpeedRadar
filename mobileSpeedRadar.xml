@@ -5,14 +5,14 @@
             <en><![CDATA[Mobile speed radar]]></en>
             <fr><![CDATA[Radar de vitesse mobile]]></fr>
             <de><![CDATA[???]]></de>
-			<nl><![CDATA[Mobiele snelheidscontrole]]></nl>
+	    <nl><![CDATA[Mobiele snelheidscontrole]]></nl>
         </name>
         <functions>
             <function>
                 <en><![CDATA[Setup a location where a mobile speed radar might popup once in a while. Updated every 30mn.]]></en>
                 <fr><![CDATA[Définit un emplacement où un radar de vitesse mobile peut apparaître de temps en temps. Mis à jour toutes les 30mn.]]></fr>
                 <de><![CDATA[???]]></de>
-				<nl><![CDATA[Stel een locatie in waar een mobiele radar af en toe mag opduiken. Elke 30min geupdate.]]></nl>
+		<nl><![CDATA[Stel een locatie in waar een mobiele radar af en toe mag opduiken. Elke 30min geupdate.]]></nl>
             </function>
         </functions>
         <image>mobileSpeedRadar.dds</image>
