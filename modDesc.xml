@@ -97,11 +97,13 @@
             <en><![CDATA[France]]></en>
             <fr><![CDATA[France]]></fr>
             <de><![CDATA[Frankreich]]></de>
+	    <nl><![CDATA[Frankrijk]]></nl>
         </text>
         <text name="germany">
             <en><![CDATA[Germany]]></en>
             <fr><![CDATA[Allemagne]]></fr>
             <de><![CDATA[Deutschland]]></de>
+	    <nl><![CDATA[Duitsland]]></nl>
         </text>
 	<text name="netherlands"]>
 	    <en><![CDATA[The Netherlands]]></en>
